@@ -1,0 +1,285 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WM Acces Chorus Pro
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Application Android
+    internal_properties : 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
+    configuration_id : 2768986864906333789
+    type : 15
+    generation_directory : .\Exe\Application Android
+    version : {}
+    language : 1
+  -
+    name : Application iOS
+    internal_properties : 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
+    configuration_id : 5917691107159986311
+    type : 18
+    generation_directory : .\Exe\Application iOS
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x4cb0ae7503c263ff
+  elements :
+   -
+     name : FEN_TEST_CHORUS
+     identifier : 0x4cb0b20508424efc
+     internal_properties : CAAAAAgAAABl4U1RbgsjPNPn8z6qz7bKa346Mvd9x72wqunAqlY8jKBc/sCDjcj63E5IsHBgGIhw8A==
+     physical_name : .\FEN_TEST_CHORUS.wdw
+     type : 2
+   -
+     name : FEN_Visualisation_Engagements
+     identifier : 0x4cb0b206084a511f
+     internal_properties : CAAAAAgAAAC3k5+DIB0VFklROcGc2dHhKWZ8vH8lWjrsf9rPr3Et2xUvjrOQuP6whrginmaaZlqiog==
+     physical_name : .\FEN_Visualisation_Engagements.wdw
+     type : 2
+   -
+     name : FEN_Facturer_Engagement_PDF
+     identifier : 0x4cb0b206085251da
+     internal_properties : CAAAAAgAAACPi+c7CLX9LkF5cbkkWbmEx2Yuxu+tVwm4aAsmRKzmOsp6flMIAEZ4XsA6hg7CvjKamg==
+     physical_name : .\FEN_Facturer_Engagement_PDF.wdw
+     type : 2
+   -
+     name : COL_ChorusPro
+     identifier : 0x4cb590cc004f9c68
+     internal_properties : CAAAAAgAAAA9GRUJtuPL1As0m9sCZFDuEyBOZsmPZimsRxCZUd836Rs1VbeZZ2Vf1HZgWNgI8OAoKA==
+     physical_name : .\COL_ChorusPro.wdg
+     type : 7
+   -
+     name : COL_ChorusPro_Base
+     identifier : 0x43720ba5008ab567
+     internal_properties : CAAAAAgAAACX8/8jgP21tgDlNsCwDYub75Luphspx+i4WEHogr5ctEDsWdyzTbhrYdjCPsY6xjqCgg==
+     physical_name : .\COL_ChorusPro_Base.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\ConsulterCompteUtilisateur_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterCompteUtilisateur_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterDetailEngagementJuridique_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterDetailEngagementJuridique_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterFactureParFournisseur_M8_V0_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterFactureParFournisseur_M8_V0_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterInformationSIRET_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterInformationSIRET_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterServiceStructure_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ConsulterServiceStructure_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\DeposerPDFFacture_M8_V0_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\DeposerPDFFacture_M8_V0_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ListerrattachementStructureUtilisateur_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\ListerrattachementStructureUtilisateur_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherDestinataire_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherDestinataire_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherEngagementJuridique_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherEngagementJuridique_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherServiceStructure_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherServiceStructure_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherStructure_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RechercherStructure_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RecupererStructureActivepourFournisseur_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RecupererStructureActivepourFournisseur_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RecupererTauxTva_M8_V0_InPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\RecupererTauxTva_M8_V0_OutPut.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\SoumettreFacture_M8_V0_input.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\SoumettreFacture_M8_V0_output.json
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+   -
+     physical_name : .\Exe\factures-test\facture_2019041216032326.pdf
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 2768986864906333789
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WD Acces Chorus Pro.sty
+ wb_style_sheet : .\WD Acces Chorus Pro.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAAI1kvIq1o5AGfN0miTqpa2TD+aVi4UZbIspH1xDe7S7dWPydjCFpGFBCRnN6+W9n26ruWSlzFv9aZEU3+q8lCdjA==
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      gsFichierFacture est une chaîne = fRepDonnées()+"\facture_2019041216032326.pdf"
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Application Android
+     identifier : 0x4cb0ae7503c363ff
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : Application iOS
+     identifier : 0x4cb0afb5082c4505
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
